@@ -1,11 +1,10 @@
 {
     "name": "JeffCoin",
-    "website": "https://jeffcoin.io/",
-    "short_description": "JeffCoin is an Jeff-based protocol meant to enable Jeffs to reach their maximum Jeffpotential and private transfer of Jeff between any Jeff.",
-    "explorers": [
-        {
-            "name": "BSCScan",
-            "url": "https://bscscan.com/token/0xf5c164dca74fb5c1f4b6ab57789257cc7ecac585"
-        }
-    ]
+    "short_description": "JeffCoin is an Jeff-based protocol meant to enable Jeffs to reach their maximum Jeffness and private transfer of Jeffness between any Jeff.",
+    "explorer": "https://bscscan.com/token/0xf5c164dca74fb5c1f4b6ab57789257cc7ecac585",
+    "type": "BEP20",
+    "symbol": "JEFF",
+    "decimals": 15,
+    "status": "active",
+    "id": "0xf5c164dca74fb5c1f4b6ab57789257cc7ecac585"
 }
